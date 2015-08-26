@@ -1,0 +1,15 @@
+h1 { color: #111; font-family: 'Helvetica Neue', sans-serif; font-size: 100px; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center; }
+
+h2 { color: #111; font-family:'Open Sans' sans-serif; font-size: 30px; font-weight: 300; line-height: 40px; margin: 0 0 72px; text-align: left; }
+
+#messageInput { color: #111; font-family:'Open Sans' sans-serif; font-size: 30px; font-weight: 300; line-height: 32px; margin: 0 0 72px; text-align: left; 
+background-repeat:repeat-x;
+border: 0px solid;
+height: calc(100% - 40px);
+width: calc(100% - 102px);
+word-wrap: break-word;
+}
+
+
+p { color: #685206; font-family: sans-serif; font-size: 14px; line-height: 24px; margin: 0 0 24px; text-align: justify; text-justify: inter-word; }
+
