@@ -84,6 +84,8 @@ a{
 body{
   max-width: 100%;
   background-color: white;
+  
+  min-height: calc(100% - 40px);
 }
 
 .content {
@@ -95,7 +97,6 @@ body{
   padding-bottom: 50px;
   overflow:none;
   max-width: 600px;
-  min-height: calc(100% - 40px);
 }
 
 
