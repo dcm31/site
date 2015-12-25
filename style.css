@@ -92,7 +92,7 @@ body{
   display: block;
   padding-left: 10%;
   padding: auto;
-  width: 90%;
+  width: auto;
   padding-bottom: 50px;
   overflow:none;
   max-width: 600px;
